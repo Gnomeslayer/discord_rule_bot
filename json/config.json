@@ -1,0 +1,22 @@
+{
+    "tokens": {
+        "discord_token": ""
+    },
+    "additional": {
+        "prefix": "-",
+        "application_id": 1234,
+        "rules_channel": 1234,
+        "managers": [
+            1234,
+            1234
+        ]
+    },
+    "cogs": {
+        "color": "0x9b59b6",
+        "rules_embed_message": 0
+    },
+    "rules": {
+        "0": "Gnome Really Rocks",
+        "1": "No Seriously, he really rocks."
+    }
+}
